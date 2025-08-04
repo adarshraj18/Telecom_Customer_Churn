@@ -98,12 +98,5 @@ To **explore patterns in customer churn** using SQL and Python, and answer key b
 
 ---
 
-## **7. Future Work**  
-- Develop **predictive churn models** using classification algorithms.  
-- Perform **customer lifetime value (CLV)** analysis to prioritize high-value segments.  
-- Run **A/B testing** to measure the impact of retention campaigns.
-
----
-
-## **8. Conclusion**  
+## **7. Conclusion**  
 Churn at Telecom is driven by **contract flexibility, payment trust, early tenure challenges, and demographic factors**. By addressing these areas, the company could **reduce churn by 20–30%**, leading to **higher customer lifetime value** and **sustainable revenue growth**.
